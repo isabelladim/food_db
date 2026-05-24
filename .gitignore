@@ -24,3 +24,7 @@ Thumbs.db
 
 #docker 
 Dockerfile
+
+#logs
+logs/
+
