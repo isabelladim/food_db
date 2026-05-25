@@ -1,6 +1,6 @@
 with 
 source as (
-    select * from {{{{ source('raw','food nutrient profiles') }}}}
+    select * from {{ source('raw','raw_ausnut_food_nutrient_profiles') }}
 ), 
 
 renamed as (
