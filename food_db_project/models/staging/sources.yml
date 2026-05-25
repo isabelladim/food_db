@@ -4,5 +4,5 @@ sources:
   - name: raw
     schema: raw
     tables:
-      - name: raw_ausnut_food_nutrient_profiles
+      - name: food_nutrient_profiles
         description: "This table contains the raw data for the Australian Nutrient Food Profiles dataset. It includes information on various food items and their nutrient profiles."
